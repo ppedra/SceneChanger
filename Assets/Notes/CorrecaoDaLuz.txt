@@ -1,0 +1,2 @@
+para corrigir a luz quando troca a scene, temos que ir em em 'lighting' (provavelmente do lado do inspetor)
+e desativar o 'auto generate' em 'debug settings' e depois clicar em 'generate lighting'
